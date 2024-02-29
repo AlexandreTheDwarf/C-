@@ -1,0 +1,15 @@
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\bin\Debug\net8.0\QCM.exe
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\bin\Debug\net8.0\QCM.deps.json
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\bin\Debug\net8.0\QCM.runtimeconfig.json
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\bin\Debug\net8.0\QCM.dll
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\bin\Debug\net8.0\QCM.pdb
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\obj\Debug\net8.0\QCM.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\obj\Debug\net8.0\QCM.AssemblyInfoInputs.cache
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\obj\Debug\net8.0\QCM.AssemblyInfo.cs
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\obj\Debug\net8.0\QCM.csproj.CoreCompileInputs.cache
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\obj\Debug\net8.0\QCM.sourcelink.json
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\obj\Debug\net8.0\QCM.dll
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\obj\Debug\net8.0\refint\QCM.dll
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\obj\Debug\net8.0\QCM.pdb
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\obj\Debug\net8.0\QCM.genruntimeconfig.cache
+E:\Users\Alexandre\Documents\Recherche Emploi\Formation Becode\Becode\QCM_Manga\QCM\obj\Debug\net8.0\ref\QCM.dll
